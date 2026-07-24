@@ -7,6 +7,6 @@ A passionate learner and developer from Vietnam
 - 📫 How to reach me: luckytran454@gmail.com
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/ngquang7)
 
-## Connect with me
+## My Social Account
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ngquang7)
 
