@@ -1,4 +1,4 @@
-                                ## Hi 👋, I'm Quang
+## Hi 👋, I'm Quang
 A passionate learner and developer from Vietnam
 
 - 🌱 I’m currently studying IT
