@@ -1,10 +1,9 @@
 ## Hi 👋, I'm Quang
-I'm studying at college and my major is CS. 
+I'm currently studying at college and my major is CS. 
 
-- 🌱 I’m currently studying IT
 - 💻 I enjoy solving problems and coding projects
 - 📚 I’m open to collaborating on competitive programming and open-source projects
-- 📫 How to reach me: luckytran454@gmail.com
+- 📫 My email: luckytran454@gmail.com
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/ngquang7)
 
 ## My Social Account
