@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Quang
-A passionate learner and developer from Vietnam
+I'm studying at college and my major is CS. 
 
 - 🌱 I’m currently studying IT
 - 💻 I enjoy solving problems and coding projects
