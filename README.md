@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Quang
-I'm currently studying at college and my major is CS. 
+I'm currently studying at college, and my major is Computer Science. 
 
 - 💻 I enjoy solving problems and coding projects
 - 📚 I’m open to collaborating on open-source projects
